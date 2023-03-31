@@ -1,0 +1,15 @@
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/bin/Debug/net7.0/Task2
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/bin/Debug/net7.0/Task2.deps.json
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/bin/Debug/net7.0/Task2.dll
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/bin/Debug/net7.0/Task2.pdb
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.dll
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/refint/Task2.dll
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.pdb
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/home/sergey/Desktop/GeekBrains/C/Sem1/HW1/Task2/obj/Debug/net7.0/ref/Task2.dll
